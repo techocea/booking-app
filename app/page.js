@@ -1,4 +1,3 @@
-import { Button } from "@/components/ui/button";
 import Hero from "./_components/Hero";
 import CategorySearch from "./_components/CategorySearch";
 
